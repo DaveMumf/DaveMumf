@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **NFT, Web3 and Crypto projects.**
 
-- 👨‍💻 All of my projects are available at [sabarobestudios.io](sabarobestudios.io)
+- 👨‍💻 All of my projects are available at [www.sabarobestudios.io](www.sabarobestudios.io)
 
 - 📫 How to reach me **davidvillarreal.sa@gmail.com**
 
