@@ -1,11 +1,11 @@
 <h1 align="center">Hi ✌🏼, I'm David</h1>
 <h3 align="center">A Developer from México</h3>
 
-- 🔭 I’m currently working on **Sabarobe Studios.**
+- 🔭 I’m currently working on **Koch Industries.**
 
-- 🌱 I’m currently learning **Solidity** and **Python**
+- 🌱 I’m currently learning **Solidity** and **More Kubernetes**
 
-- 👯 I’m looking to collaborate on **NFT, Web3 and Crypto projects.**
+- 👯 I’m looking to collaborate on **NFT, Web3 and Crypto projects on the DevOps and CI/CD side of things.**
 
 - 👨‍💻 All of my projects are available at [www.sabarobestudios.io](www.sabarobestudios.io)
 
